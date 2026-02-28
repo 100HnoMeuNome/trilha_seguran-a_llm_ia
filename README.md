@@ -1,7 +1,3 @@
-Aqui está a trilha completa formatada em **Markdown**, pronta para ser copiada e colada no arquivo `README.md` do seu repositório no GitHub.
-
----
-
 # 🛡️ Trilha de Estudos: Segurança em IA & LLMs (Edição 2025/2026)
 
 Este repositório contém uma trilha de estudos estruturada para profissionais de segurança que desejam se especializar em IA Generativa, cobrindo desde fundamentos até arquiteturas avançadas de agentes, o protocolo MCP e as ameaças mais recentes do cenário "Agentic Security".
